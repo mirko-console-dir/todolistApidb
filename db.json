@@ -1,0 +1,144 @@
+{
+  "todos": [
+    {
+      "completed": true,
+      "name": "Do my homework",
+      "dueDate": "20/8/2021",
+      "user_id": 1,
+      "id": 6
+    },
+    {
+      "id": 4,
+      "name": "my new todo",
+      "dueDate": "20/8/2021",
+      "user_id": 1,
+      "completed": true
+    },
+    {
+      "id": 5,
+      "name": "another new todo",
+      "dueDate": "20/8/2021",
+      "user_id": 1,
+      "completed": true
+    },
+    {
+      "name": "let's doit",
+      "dueDate": "20/8/2021",
+      "user_id": 1,
+      "id": 7,
+      "completed": true
+    },
+    {
+      "name": "last todo",
+      "dueDate": "20/8/2021",
+      "user_id": 1,
+      "id": 8,
+      "completed": true
+    },
+    {
+      "name": "asdasdasd",
+      "dueDate": "31/8/2021",
+      "user_id": 1,
+      "id": 13
+    },
+    {
+      "name": "dsdsd",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "id": 14
+    },
+    {
+      "name": "new todo now",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "id": 15
+    },
+    {
+      "name": "todo for dssd",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 1,
+      "id": 16
+    },
+    {
+      "name": "sdsdsd",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 1,
+      "id": 17
+    },
+    {
+      "name": "another todo",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 2,
+      "id": 18
+    },
+    {
+      "name": "sdsd",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 2,
+      "id": 19,
+      "completed": true
+    },
+    {
+      "name": "my first todo",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 3,
+      "id": 20
+    },
+    {
+      "name": "my second todo",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 3,
+      "id": 21
+    },
+    {
+      "name": "another todo",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 3,
+      "id": 22
+    },
+    {
+      "name": "what a day",
+      "created_at": "3/9/2021",
+      "user_id": 1,
+      "list_id": 3,
+      "id": 23
+    },
+    {
+      "name": "dsfg",
+      "created_at": "24/6/2022",
+      "user_id": 1,
+      "list_id": 3,
+      "id": 24,
+      "completed": false
+    },
+    {
+      "name": "erferrrr",
+      "created_at": "25/6/2022",
+      "user_id": 1,
+      "list_id": 3,
+      "id": 25
+    }
+  ],
+  "filter": [
+    "ALL"
+  ],
+  "lists": [
+    {
+      "name": "my second list test",
+      "user_id": 1,
+      "id": 2
+    },
+    {
+      "name": "erewrwe",
+      "user_id": 1,
+      "id": 3
+    }
+  ]
+}
